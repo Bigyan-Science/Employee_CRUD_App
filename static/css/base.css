@@ -1,0 +1,36 @@
+.header{
+    background-color: #658CD9;
+}
+
+.logo {
+    
+    flex: 50%;
+    color: #ffff;
+    font-family: Helvetica;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+
+.menu {
+    margin-block-start: 2px;
+}
+
+.menu a {
+    color: #ffff;
+    text-decoration: none;
+    margin-inline-end: 40px;
+    font-size: 16px;
+}
+
+.topbar {
+    padding: 20px;
+    position: relative;
+}
+
+a:hover{
+    text-decoration: none;
+    box-shadow: 0px 1px 3px 4px #e6eeff7d;
+    padding: 10px;
+    border-radius: 10px;
+}

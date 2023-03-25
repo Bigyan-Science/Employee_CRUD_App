@@ -1,0 +1,41 @@
+
+
+.textHome{
+    text-align: center;
+    padding-block-start: 10%;
+    font-weight: 700;
+    font-size: 50px;
+    color: black;
+}
+.buttonDiv{
+    text-align: center;
+    margin-top: 50px;
+}
+button{
+    margin-bottom: 50px;
+    display: inline;
+    margin-block-start: 40px;
+    justify-content: space-between;
+}
+.button {
+    border: 1px solid #658cd9;
+    background: white;
+    border-radius: 20px;
+    inline-size: 30%;
+    block-size: 50px;
+    font-weight: 500;
+    justify-content: center;
+    margin-top: 10px;
+    margin-left: 50px;
+    margin-bottom: 10px;
+    
+}
+button{
+    color: #658CD9;
+    text-decoration: none;
+}
+button:hover{
+    box-shadow: 0px 1px 3px 4px #8aa6dc7d;
+    border: none;
+}
+
